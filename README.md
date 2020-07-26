@@ -14,19 +14,6 @@ The main objectives of this application are
 5.Provides a user-friendly experience having  a great feel like chatting with friends rather than being a normal translator
 ~~~
 
-## Special Features
-~~~
-1.ChatBot Flow
-
-2.Long press to view meaning
-
-3.File Translation
-
-4.Suggestion of sites
-
-5.Translate,Copy,Share
-~~~
-
 ## Built With
 
 * [Flutter](https://flutter.dev/) - The Beautiful native app in Time
@@ -54,3 +41,16 @@ The main objectives of this application are
 
 ## CONCLUSION AND FUTURE ENHANCEMENT
 Apart from many android applications that translate texts, our app stands apart with many extra features that helps user have more functionalities.
+
+~~~
+1.ChatBot Flow
+
+2.Long press to view meaning
+
+3.File Translation
+
+4.Suggestion of sites
+
+5.Translate,Copy,Share
+~~~
+
